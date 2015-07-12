@@ -152,6 +152,27 @@ namespace FinancialCalculator
 
         #region Helper Methods
 
+        // TODO: test
+        private static void SetInputs(string required, string semirequired)
+        {
+            string[] reqArray = required.Split(',');
+
+            foreach (string req in reqArray )
+            {
+                ErrorManager.Inputs reqEnum;
+                if (Enum.TryParse(req, out reqEnum))
+                    ErrorManager.RequiredInputs.Add(reqEnum);
+            }
+
+            string[] semiArray = semirequired.Split(',');
+
+            foreach (string req in semiArray)
+            {
+                ErrorManager.Inputs semiEnum;
+                if (Enum.TryParse(req, out semiEnum))
+                    ErrorManager.MutuallyExclusiveInputs.Add(semiEnum);
+            }
+        }
         #endregion
     }
 }
