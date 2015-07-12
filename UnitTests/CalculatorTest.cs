@@ -120,7 +120,7 @@ namespace UnitTests
 
             Calculator.CalculateFv();
 
-            Assert.AreEqual(16378.93m, Math.Round(Calculator.Fv, 2));
+            Assert.AreEqual(16387.93m, Math.Round(Calculator.Fv, 2));
         }
 
 

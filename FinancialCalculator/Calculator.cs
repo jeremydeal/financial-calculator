@@ -99,7 +99,7 @@ namespace FinancialCalculator
             // if just calculating interest...
             if (Pmt == 0)
             {
-                // calculate Fv
+                Fv = -Pv * (decimal)Math.Pow((double) (1 + Rate), Nper);
             }
             // if calculating an annuity...
             else
@@ -107,7 +107,7 @@ namespace FinancialCalculator
                 // present value will not be used, so clear it
                 Pv = 0;
 
-                // calculate Fv
+                Fv = -Pmt * (((decimal)Math.Pow((double)(1+Rate),Nper) - 1) / Rate);
             }
         }
 
