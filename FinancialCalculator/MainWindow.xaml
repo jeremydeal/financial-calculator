@@ -1,0 +1,25 @@
+﻿<Window x:Class="FinancialCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="300">
+    <DockPanel>
+        <ToolBarTray DockPanel.Dock="Left"
+                     Orientation="Vertical"
+                     Width="auto">
+            <ToolBar>
+                <Button Content="PV"/>
+                <Button Content="FV"/>
+                <Button Content="PMT"/>
+                <Button Content="RATE"/>
+                <Button Content="NPER"/>
+            </ToolBar>
+            <ToolBar>
+                <Button Content="EFFECT" />
+            </ToolBar>
+        </ToolBarTray>
+        
+        <StackPanel>
+        </StackPanel>
+        
+    </DockPanel>
+</Window>

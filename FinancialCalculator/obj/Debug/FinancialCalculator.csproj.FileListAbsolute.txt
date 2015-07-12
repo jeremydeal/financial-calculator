@@ -1,0 +1,13 @@
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe.config
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.exe
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\bin\Debug\FinancialCalculator.pdb
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\MainWindow.baml
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\App.g.cs
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator_MarkupCompile.cache
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.g.resources
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.Properties.Resources.resources
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.csproj.GenerateResource.Cache
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.exe
+C:\Users\jeremy.n.deal\Documents\Visual Studio 2013\Projects\C#\FinancialCalculator\FinancialCalculator\obj\Debug\FinancialCalculator.pdb
